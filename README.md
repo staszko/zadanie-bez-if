@@ -6,7 +6,7 @@ Mathematical formula `2 * (17 + 6 / (5 - 2))` may be expressed as binary tree wi
 * mathematical operation (*inner node*)
 
 ![Binary tree of wspression: 2 * (17 + 6 / (5 - 2))](https://g.gravizo.com/svg?
-    digraph G {
+    digraph%2FG%2F{
         size="4,4";
         op_0 [label="*"];
         value_2 [label="2"];
